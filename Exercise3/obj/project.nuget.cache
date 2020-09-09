@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/dSCOlWm97lDf6SORgAlguimnfi5ux7LhleQYbOQjKAFo3edgKtJHLcyEhzRhnI+vqt36WRdx9fCEFyLkfFmXg==",
+  "dgSpecHash": "ANtMaEl1x5IFi/gvHCH7zdEDdMuQMgtr0BFxabfuDMYmcI+SyjQARLJrFDUzPfKuTFahZL0WLxP1ed8HUrR2vg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\Desktop\\Xhino Bardho\\Exercise3\\Exercise3.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\Desktop\\Sitel\\Xhino-Exercises\\Exercise3\\Exercise3.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",

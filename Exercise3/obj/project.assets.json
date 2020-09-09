@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Xhino Bardho\\Exercise3\\Exercise3.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Sitel\\Xhino-Exercises\\Exercise3\\Exercise3.csproj",
       "projectName": "Exercise3",
-      "projectPath": "C:\\Users\\Admin\\Desktop\\Xhino Bardho\\Exercise3\\Exercise3.csproj",
+      "projectPath": "C:\\Users\\Admin\\Desktop\\Sitel\\Xhino-Exercises\\Exercise3\\Exercise3.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Desktop\\Xhino Bardho\\Exercise3\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\Desktop\\Sitel\\Xhino-Exercises\\Exercise3\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
