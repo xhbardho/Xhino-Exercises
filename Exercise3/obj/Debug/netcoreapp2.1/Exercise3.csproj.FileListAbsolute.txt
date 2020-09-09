@@ -1,0 +1,47 @@
+C:\Users\Admin\Desktop\Pragmatic\Xhino_Bardho\Exercise3\bin\Debug\netcoreapp2.1\Exercise3.deps.json
+C:\Users\Admin\Desktop\Pragmatic\Xhino_Bardho\Exercise3\bin\Debug\netcoreapp2.1\Exercise3.runtimeconfig.json
+C:\Users\Admin\Desktop\Pragmatic\Xhino_Bardho\Exercise3\bin\Debug\netcoreapp2.1\Exercise3.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Pragmatic\Xhino_Bardho\Exercise3\bin\Debug\netcoreapp2.1\Exercise3.dll
+C:\Users\Admin\Desktop\Pragmatic\Xhino_Bardho\Exercise3\bin\Debug\netcoreapp2.1\Exercise3.pdb
+C:\Users\Admin\Desktop\Pragmatic\Xhino_Bardho\Exercise3\obj\Debug\netcoreapp2.1\Exercise3.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Pragmatic\Xhino_Bardho\Exercise3\obj\Debug\netcoreapp2.1\Exercise3.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Pragmatic\Xhino_Bardho\Exercise3\obj\Debug\netcoreapp2.1\Exercise3.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Pragmatic\Xhino_Bardho\Exercise3\obj\Debug\netcoreapp2.1\Exercise3.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Pragmatic\Xhino_Bardho\Exercise3\obj\Debug\netcoreapp2.1\Exercise3.dll
+C:\Users\Admin\Desktop\Pragmatic\Xhino_Bardho\Exercise3\obj\Debug\netcoreapp2.1\Exercise3.pdb
+C:\Users\Admin\Desktop\Pragmatic\Exercise3\bin\Debug\netcoreapp2.1\Exercise3.deps.json
+C:\Users\Admin\Desktop\Pragmatic\Exercise3\bin\Debug\netcoreapp2.1\Exercise3.runtimeconfig.json
+C:\Users\Admin\Desktop\Pragmatic\Exercise3\bin\Debug\netcoreapp2.1\Exercise3.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Pragmatic\Exercise3\bin\Debug\netcoreapp2.1\Exercise3.dll
+C:\Users\Admin\Desktop\Pragmatic\Exercise3\bin\Debug\netcoreapp2.1\Exercise3.pdb
+C:\Users\Admin\Desktop\Pragmatic\Exercise3\obj\Debug\netcoreapp2.1\Exercise3.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Pragmatic\Exercise3\obj\Debug\netcoreapp2.1\Exercise3.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Pragmatic\Exercise3\obj\Debug\netcoreapp2.1\Exercise3.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Pragmatic\Exercise3\obj\Debug\netcoreapp2.1\Exercise3.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Pragmatic\Exercise3\obj\Debug\netcoreapp2.1\Exercise3.dll
+C:\Users\Admin\Desktop\Pragmatic\Exercise3\obj\Debug\netcoreapp2.1\Exercise3.pdb
+C:\Users\Admin\Desktop\Pragmatic\Exercise3\obj\Debug\netcoreapp2.1\Exercise3.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Vilajet\Exercise3\bin\Debug\netcoreapp2.1\Exercise3.deps.json
+C:\Users\Admin\Desktop\Vilajet\Exercise3\bin\Debug\netcoreapp2.1\Exercise3.runtimeconfig.json
+C:\Users\Admin\Desktop\Vilajet\Exercise3\bin\Debug\netcoreapp2.1\Exercise3.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Vilajet\Exercise3\bin\Debug\netcoreapp2.1\Exercise3.dll
+C:\Users\Admin\Desktop\Vilajet\Exercise3\bin\Debug\netcoreapp2.1\Exercise3.pdb
+C:\Users\Admin\Desktop\Vilajet\Exercise3\obj\Debug\netcoreapp2.1\Exercise3.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Vilajet\Exercise3\obj\Debug\netcoreapp2.1\Exercise3.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Vilajet\Exercise3\obj\Debug\netcoreapp2.1\Exercise3.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Vilajet\Exercise3\obj\Debug\netcoreapp2.1\Exercise3.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Vilajet\Exercise3\obj\Debug\netcoreapp2.1\Exercise3.dll
+C:\Users\Admin\Desktop\Vilajet\Exercise3\obj\Debug\netcoreapp2.1\Exercise3.pdb
+C:\Users\Admin\Desktop\Vilajet\Exercise3\obj\Debug\netcoreapp2.1\Exercise3.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Xhino Bardho\Exercise3\bin\Debug\netcoreapp2.1\Exercise3.deps.json
+C:\Users\Admin\Desktop\Xhino Bardho\Exercise3\bin\Debug\netcoreapp2.1\Exercise3.runtimeconfig.json
+C:\Users\Admin\Desktop\Xhino Bardho\Exercise3\bin\Debug\netcoreapp2.1\Exercise3.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Xhino Bardho\Exercise3\bin\Debug\netcoreapp2.1\Exercise3.dll
+C:\Users\Admin\Desktop\Xhino Bardho\Exercise3\bin\Debug\netcoreapp2.1\Exercise3.pdb
+C:\Users\Admin\Desktop\Xhino Bardho\Exercise3\obj\Debug\netcoreapp2.1\Exercise3.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Xhino Bardho\Exercise3\obj\Debug\netcoreapp2.1\Exercise3.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Xhino Bardho\Exercise3\obj\Debug\netcoreapp2.1\Exercise3.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Xhino Bardho\Exercise3\obj\Debug\netcoreapp2.1\Exercise3.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Xhino Bardho\Exercise3\obj\Debug\netcoreapp2.1\Exercise3.dll
+C:\Users\Admin\Desktop\Xhino Bardho\Exercise3\obj\Debug\netcoreapp2.1\Exercise3.pdb
+C:\Users\Admin\Desktop\Xhino Bardho\Exercise3\obj\Debug\netcoreapp2.1\Exercise3.genruntimeconfig.cache
